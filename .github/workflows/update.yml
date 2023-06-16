@@ -11,3 +11,4 @@ jobs:
       - uses: lauravuo/fetch-contributors-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          filterUsersOut: "dependabot[bot]"
