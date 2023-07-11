@@ -15,7 +15,7 @@
 
 ## Repositories
 
-### [findy-agent](https://github.com/findy-network/findy-agent) ([1068 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
+### [findy-agent](https://github.com/findy-network/findy-agent) ([1066 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [lainio](https://github.com/lainio) (5 %)
@@ -23,7 +23,7 @@
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (34 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (64 %)
     
-### [findy-common-go](https://github.com/findy-network/findy-common-go) ([456 commits](https://github.com/findy-network/findy-common-go/graphs/contributors))
+### [findy-common-go](https://github.com/findy-network/findy-common-go) ([455 commits](https://github.com/findy-network/findy-common-go/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [lauravuo](https://github.com/lauravuo) (9 %)
@@ -31,7 +31,7 @@
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (20 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (59 %)
     
-### [findy-agent-cli](https://github.com/findy-network/findy-agent-cli) ([417 commits](https://github.com/findy-network/findy-agent-cli/graphs/contributors))
+### [findy-agent-cli](https://github.com/findy-network/findy-agent-cli) ([416 commits](https://github.com/findy-network/findy-agent-cli/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (1 %)
 * [lauravuo](https://github.com/lauravuo) (4 %)
@@ -40,7 +40,7 @@
 * [lainio](https://github.com/lainio) (19 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (66 %)
     
-### [findy-agent-vault](https://github.com/findy-network/findy-agent-vault) ([326 commits](https://github.com/findy-network/findy-agent-vault/graphs/contributors))
+### [findy-agent-vault](https://github.com/findy-network/findy-agent-vault) ([325 commits](https://github.com/findy-network/findy-agent-vault/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (2 %)
