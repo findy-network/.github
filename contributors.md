@@ -48,7 +48,7 @@
 * [lauravuo](https://github.com/lauravuo) (15 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (102 %)
     
-### [findy-agent-auth](https://github.com/findy-network/findy-agent-auth) ([261 commits](https://github.com/findy-network/findy-agent-auth/graphs/contributors))
+### [findy-agent-auth](https://github.com/findy-network/findy-agent-auth) ([260 commits](https://github.com/findy-network/findy-agent-auth/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [lauravuo](https://github.com/lauravuo) (7 %)
