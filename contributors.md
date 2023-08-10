@@ -15,7 +15,7 @@
 
 ## Repositories
 
-### [findy-agent](https://github.com/findy-network/findy-agent) ([1066 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
+### [findy-agent](https://github.com/findy-network/findy-agent) ([1062 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [lainio](https://github.com/lainio) (5 %)
@@ -31,16 +31,16 @@
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (21 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (59 %)
     
-### [findy-agent-cli](https://github.com/findy-network/findy-agent-cli) ([408 commits](https://github.com/findy-network/findy-agent-cli/graphs/contributors))
+### [findy-agent-cli](https://github.com/findy-network/findy-agent-cli) ([406 commits](https://github.com/findy-network/findy-agent-cli/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (1 %)
 * [lauravuo](https://github.com/lauravuo) (4 %)
 * [ville-techlab](https://github.com/ville-techlab) (9 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (18 %)
 * [lainio](https://github.com/lainio) (20 %)
-* [techlab-lainio](https://github.com/techlab-lainio) (67 %)
+* [techlab-lainio](https://github.com/techlab-lainio) (68 %)
     
-### [findy-agent-vault](https://github.com/findy-network/findy-agent-vault) ([319 commits](https://github.com/findy-network/findy-agent-vault/graphs/contributors))
+### [findy-agent-vault](https://github.com/findy-network/findy-agent-vault) ([318 commits](https://github.com/findy-network/findy-agent-vault/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (3 %)
@@ -48,11 +48,11 @@
 * [lauravuo](https://github.com/lauravuo) (15 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (102 %)
     
-### [findy-agent-auth](https://github.com/findy-network/findy-agent-auth) ([258 commits](https://github.com/findy-network/findy-agent-auth/graphs/contributors))
+### [findy-agent-auth](https://github.com/findy-network/findy-agent-auth) ([257 commits](https://github.com/findy-network/findy-agent-auth/graphs/contributors))
 
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
 * [lauravuo](https://github.com/lauravuo) (7 %)
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (29 %)
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (30 %)
 * [lainio](https://github.com/lainio) (39 %)
 * [techlab-lainio](https://github.com/techlab-lainio) (44 %)
     
