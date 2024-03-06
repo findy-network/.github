@@ -136,15 +136,15 @@
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (55 %)
 * [lauravuo](https://github.com/lauravuo) (45 %)
     
-### [releaser-action](https://github.com/findy-network/releaser-action) ([19 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
-
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (79 %)
-* [lauravuo](https://github.com/lauravuo) (21 %)
-    
 ### [setup-go-action](https://github.com/findy-network/setup-go-action) ([19 commits](https://github.com/findy-network/setup-go-action/graphs/contributors))
 
 * [lauravuo](https://github.com/lauravuo) (95 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (5 %)
+    
+### [releaser-action](https://github.com/findy-network/releaser-action) ([19 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
+
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (79 %)
+* [lauravuo](https://github.com/lauravuo) (21 %)
     
 ### [agency-workshop-codespace](https://github.com/findy-network/agency-workshop-codespace) ([9 commits](https://github.com/findy-network/agency-workshop-codespace/graphs/contributors))
 
