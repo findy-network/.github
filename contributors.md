@@ -5,10 +5,10 @@
 
 | avatar | username | name | count | of all commits |
 |--------|----------|------|---------|---|
-| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 1810 | 36%
-| <img src="https://avatars.githubusercontent.com/u/48682716?s=35&v=4" alt="techlab-lainio" width="35px" /> | [techlab-lainio](https://github.com/techlab-lainio) | null | 1601 | 32%
-| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 883 | 17%
-| <img src="https://avatars.githubusercontent.com/u/11439212?s=35&v=4" alt="lainio" width="35px" /> | [lainio](https://github.com/lainio) | Lainio | 578 | 11%
+| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 1822 | 36%
+| <img src="https://avatars.githubusercontent.com/u/48682716?s=35&v=4" alt="techlab-lainio" width="35px" /> | [techlab-lainio](https://github.com/techlab-lainio) | null | 1601 | 31%
+| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 901 | 18%
+| <img src="https://avatars.githubusercontent.com/u/11439212?s=35&v=4" alt="lainio" width="35px" /> | [lainio](https://github.com/lainio) | Lainio | 596 | 12%
 | <img src="https://avatars.githubusercontent.com/u/59019416?s=35&v=4" alt="ville-techlab" width="35px" /> | [ville-techlab](https://github.com/ville-techlab) | null | 124 | 2%
 | <img src="https://avatars.githubusercontent.com/u/49303661?s=35&v=4" alt="pekkakaipio-op" width="35px" /> | [pekkakaipio-op](https://github.com/pekkakaipio-op) | Pekka Kaipio | 46 | 1%
 | <img src="https://avatars.githubusercontent.com/u/52442320?s=35&v=4" alt="Heikkohoo" width="35px" /> | [Heikkohoo](https://github.com/Heikkohoo) | Juhani Hakosalo | 5 | 0%
@@ -16,18 +16,18 @@
 
 ## Repositories
 
-### [findy-agent](https://github.com/findy-network/findy-agent) ([1194 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
+### [findy-agent](https://github.com/findy-network/findy-agent) ([1206 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
 
-* [techlab-lainio](https://github.com/techlab-lainio) (57 %)
+* [techlab-lainio](https://github.com/techlab-lainio) (56 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (30 %)
 * [lauravuo](https://github.com/lauravuo) (7 %)
-* [lainio](https://github.com/lainio) (5 %)
+* [lainio](https://github.com/lainio) (6 %)
 * [pekkakaipio-op](https://github.com/pekkakaipio-op) (0 %)
     
-### [findy-agent-cli](https://github.com/findy-network/findy-agent-cli) ([537 commits](https://github.com/findy-network/findy-agent-cli/graphs/contributors))
+### [findy-agent-cli](https://github.com/findy-network/findy-agent-cli) ([544 commits](https://github.com/findy-network/findy-agent-cli/graphs/contributors))
 
 * [techlab-lainio](https://github.com/techlab-lainio) (51 %)
-* [lainio](https://github.com/lainio) (23 %)
+* [lainio](https://github.com/lainio) (24 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (14 %)
 * [ville-techlab](https://github.com/ville-techlab) (7 %)
 * [lauravuo](https://github.com/lauravuo) (5 %)
@@ -126,20 +126,25 @@
 * [lauravuo](https://github.com/lauravuo) (97 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (3 %)
     
+### [findy-template-go](https://github.com/findy-network/findy-template-go) ([29 commits](https://github.com/findy-network/findy-template-go/graphs/contributors))
+
+* [lauravuo](https://github.com/lauravuo) (59 %)
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (41 %)
+    
 ### [findy-common-kt](https://github.com/findy-network/findy-common-kt) ([22 commits](https://github.com/findy-network/findy-common-kt/graphs/contributors))
 
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (55 %)
 * [lauravuo](https://github.com/lauravuo) (45 %)
     
-### [setup-go-action](https://github.com/findy-network/setup-go-action) ([19 commits](https://github.com/findy-network/setup-go-action/graphs/contributors))
-
-* [lauravuo](https://github.com/lauravuo) (95 %)
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (5 %)
-    
 ### [releaser-action](https://github.com/findy-network/releaser-action) ([19 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
 
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (79 %)
 * [lauravuo](https://github.com/lauravuo) (21 %)
+    
+### [setup-go-action](https://github.com/findy-network/setup-go-action) ([19 commits](https://github.com/findy-network/setup-go-action/graphs/contributors))
+
+* [lauravuo](https://github.com/lauravuo) (95 %)
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (5 %)
     
 ### [agency-workshop-codespace](https://github.com/findy-network/agency-workshop-codespace) ([9 commits](https://github.com/findy-network/agency-workshop-codespace/graphs/contributors))
 
@@ -160,9 +165,5 @@
 * [lauravuo](https://github.com/lauravuo) (33 %)
 * [aleksijalmanen](https://github.com/aleksijalmanen) (33 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (33 %)
-    
-### [findy-template-go](https://github.com/findy-network/findy-template-go) ([0 commits](https://github.com/findy-network/findy-template-go/graphs/contributors))
-
-
     
     
