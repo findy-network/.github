@@ -5,7 +5,7 @@
 
 | avatar | username | name | count | of all commits |
 |--------|----------|------|---------|---|
-| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 1815 | 35%
+| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 1822 | 35%
 | <img src="https://avatars.githubusercontent.com/u/48682716?s=35&v=4" alt="techlab-lainio" width="35px" /> | [techlab-lainio](https://github.com/techlab-lainio) | null | 1601 | 31%
 | <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 932 | 18%
 | <img src="https://avatars.githubusercontent.com/u/11439212?s=35&v=4" alt="lainio" width="35px" /> | [lainio](https://github.com/lainio) | Lainio | 616 | 12%
@@ -151,6 +151,10 @@
 * [lauravuo](https://github.com/lauravuo) (89 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (11 %)
     
+### [findy-agency-demo](https://github.com/findy-network/findy-agency-demo) ([7 commits](https://github.com/findy-network/findy-agency-demo/graphs/contributors))
+
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (100 %)
+    
 ### [.github](https://github.com/findy-network/.github) ([5 commits](https://github.com/findy-network/.github/graphs/contributors))
 
 * [lauravuo](https://github.com/lauravuo) (80 %)
@@ -161,9 +165,5 @@
 * [lauravuo](https://github.com/lauravuo) (33 %)
 * [aleksijalmanen](https://github.com/aleksijalmanen) (33 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (33 %)
-    
-### [findy-agency-demo](https://github.com/findy-network/findy-agency-demo) ([0 commits](https://github.com/findy-network/findy-agency-demo/graphs/contributors))
-
-
     
     
