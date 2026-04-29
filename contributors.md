@@ -5,10 +5,27 @@
 
 | avatar | username | name | count | of all commits |
 |--------|----------|------|---------|---|
-
+| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 172 | 53%
+| <img src="https://avatars.githubusercontent.com/u/48682716?s=35&v=4" alt="techlab-lainio" width="35px" /> | [techlab-lainio](https://github.com/techlab-lainio) | null | 78 | 24%
+| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 67 | 20%
+| <img src="https://avatars.githubusercontent.com/u/11439212?s=35&v=4" alt="lainio" width="35px" /> | [lainio](https://github.com/lainio) | Lainio | 8 | 2%
+| <img src="https://avatars.githubusercontent.com/u/49303661?s=35&v=4" alt="pekkakaipio-op" width="35px" /> | [pekkakaipio-op](https://github.com/pekkakaipio-op) | Pekka Kaipio | 2 | 1%
 
 ## Repositories
 
+### [findy-common-ts](https://github.com/findy-network/findy-common-ts) ([204 commits](https://github.com/findy-network/findy-common-ts/graphs/contributors))
+
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (71 %)
+* [lauravuo](https://github.com/lauravuo) (29 %)
+    
+### [findy-agent-api](https://github.com/findy-network/findy-agent-api) ([123 commits](https://github.com/findy-network/findy-agent-api/graphs/contributors))
+
+* [techlab-lainio](https://github.com/techlab-lainio) (63 %)
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (23 %)
+* [lainio](https://github.com/lainio) (7 %)
+* [lauravuo](https://github.com/lauravuo) (6 %)
+* [pekkakaipio-op](https://github.com/pekkakaipio-op) (2 %)
+    
 ### [findy-agent](https://github.com/findy-network/findy-agent) ([0 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
 
 
@@ -22,10 +39,6 @@
 
     
 ### [findy-network.github.io](https://github.com/findy-network/findy-network.github.io) ([0 commits](https://github.com/findy-network/findy-network.github.io/graphs/contributors))
-
-
-    
-### [findy-agent-api](https://github.com/findy-network/findy-agent-api) ([0 commits](https://github.com/findy-network/findy-agent-api/graphs/contributors))
 
 
     
@@ -46,10 +59,6 @@
 
     
 ### [findy-agent-auth](https://github.com/findy-network/findy-agent-auth) ([0 commits](https://github.com/findy-network/findy-agent-auth/graphs/contributors))
-
-
-    
-### [findy-common-ts](https://github.com/findy-network/findy-common-ts) ([0 commits](https://github.com/findy-network/findy-common-ts/graphs/contributors))
 
 
     
