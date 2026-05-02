@@ -5,16 +5,10 @@
 
 | avatar | username | name | count | of all commits |
 |--------|----------|------|---------|---|
-| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 15 | 65%
-| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 8 | 35%
+
 
 ## Repositories
 
-### [releaser-action](https://github.com/findy-network/releaser-action) ([23 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
-
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (65 %)
-* [lauravuo](https://github.com/lauravuo) (35 %)
-    
 ### [findy-agent](https://github.com/findy-network/findy-agent) ([0 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
 
 
@@ -68,6 +62,10 @@
 
     
 ### [findy-agent-infra](https://github.com/findy-network/findy-agent-infra) ([0 commits](https://github.com/findy-network/findy-agent-infra/graphs/contributors))
+
+
+    
+### [releaser-action](https://github.com/findy-network/releaser-action) ([0 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
 
 
     
