@@ -5,23 +5,10 @@
 
 | avatar | username | name | count | of all commits |
 |--------|----------|------|---------|---|
-| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 140 | 74%
-| <img src="https://avatars.githubusercontent.com/u/49157864?s=35&v=4" alt="lauravuo-techlab" width="35px" /> | [lauravuo-techlab](https://github.com/lauravuo-techlab) | Laura Vuorenoja | 48 | 25%
-| <img src="https://avatars.githubusercontent.com/u/134267297?s=35&v=4" alt="aleksijalmanen" width="35px" /> | [aleksijalmanen](https://github.com/aleksijalmanen) | null | 1 | 1%
+
 
 ## Repositories
 
-### [findy-agent-infra](https://github.com/findy-network/findy-agent-infra) ([185 commits](https://github.com/findy-network/findy-agent-infra/graphs/contributors))
-
-* [lauravuo](https://github.com/lauravuo) (75 %)
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (25 %)
-    
-### [findy-wallet-flutter](https://github.com/findy-network/findy-wallet-flutter) ([4 commits](https://github.com/findy-network/findy-wallet-flutter/graphs/contributors))
-
-* [lauravuo](https://github.com/lauravuo) (50 %)
-* [aleksijalmanen](https://github.com/aleksijalmanen) (25 %)
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (25 %)
-    
 ### [findy-agent](https://github.com/findy-network/findy-agent) ([0 commits](https://github.com/findy-network/findy-agent/graphs/contributors))
 
 
@@ -74,6 +61,10 @@
 
 
     
+### [findy-agent-infra](https://github.com/findy-network/findy-agent-infra) ([0 commits](https://github.com/findy-network/findy-agent-infra/graphs/contributors))
+
+
+    
 ### [releaser-action](https://github.com/findy-network/releaser-action) ([0 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
 
 
@@ -107,6 +98,10 @@
 
     
 ### [.github](https://github.com/findy-network/.github) ([0 commits](https://github.com/findy-network/.github/graphs/contributors))
+
+
+    
+### [findy-wallet-flutter](https://github.com/findy-network/findy-wallet-flutter) ([0 commits](https://github.com/findy-network/findy-wallet-flutter/graphs/contributors))
 
 
     
