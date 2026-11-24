@@ -133,15 +133,15 @@
 * [lauravuo](https://github.com/lauravuo) (61 %)
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (39 %)
     
-### [releaser-action](https://github.com/findy-network/releaser-action) ([23 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
-
-* [lauravuo-techlab](https://github.com/lauravuo-techlab) (65 %)
-* [lauravuo](https://github.com/lauravuo) (35 %)
-    
 ### [findy-common-kt](https://github.com/findy-network/findy-common-kt) ([23 commits](https://github.com/findy-network/findy-common-kt/graphs/contributors))
 
 * [lauravuo-techlab](https://github.com/lauravuo-techlab) (52 %)
 * [lauravuo](https://github.com/lauravuo) (48 %)
+    
+### [releaser-action](https://github.com/findy-network/releaser-action) ([23 commits](https://github.com/findy-network/releaser-action/graphs/contributors))
+
+* [lauravuo-techlab](https://github.com/lauravuo-techlab) (65 %)
+* [lauravuo](https://github.com/lauravuo) (35 %)
     
 ### [setup-go-action](https://github.com/findy-network/setup-go-action) ([21 commits](https://github.com/findy-network/setup-go-action/graphs/contributors))
 
